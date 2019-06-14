@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.deps.json
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.runtimeconfig.json
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.dll
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\bin\Debug\netcoreapp2.2\ArrayManipulator.pdb
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.AssemblyInfo.cs
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.dll
+C:\Users\admin\Desktop\C# Programs\ArrayManipulator\ArrayManipulator\obj\Debug\netcoreapp2.2\ArrayManipulator.pdb
