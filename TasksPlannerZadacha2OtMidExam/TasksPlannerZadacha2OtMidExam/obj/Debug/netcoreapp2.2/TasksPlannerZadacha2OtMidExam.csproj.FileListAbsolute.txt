@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\bin\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.deps.json
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\bin\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.runtimeconfig.json
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\bin\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.runtimeconfig.dev.json
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\bin\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.dll
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\bin\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.pdb
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\obj\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\obj\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\obj\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\obj\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.AssemblyInfo.cs
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\obj\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.dll
+C:\Users\admin\source\repos\TasksPlannerZadacha2OtMidExam\TasksPlannerZadacha2OtMidExam\obj\Debug\netcoreapp2.2\TasksPlannerZadacha2OtMidExam.pdb
