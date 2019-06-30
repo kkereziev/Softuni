@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\bin\Debug\netcoreapp2.2\FroggySquad.deps.json
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\bin\Debug\netcoreapp2.2\FroggySquad.runtimeconfig.json
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\bin\Debug\netcoreapp2.2\FroggySquad.runtimeconfig.dev.json
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\bin\Debug\netcoreapp2.2\FroggySquad.dll
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\bin\Debug\netcoreapp2.2\FroggySquad.pdb
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\obj\Debug\netcoreapp2.2\FroggySquad.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\obj\Debug\netcoreapp2.2\FroggySquad.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\obj\Debug\netcoreapp2.2\FroggySquad.AssemblyInfo.cs
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\obj\Debug\netcoreapp2.2\FroggySquad.dll
+C:\Users\admin\source\repos\FroggySquad\FroggySquad\obj\Debug\netcoreapp2.2\FroggySquad.pdb
