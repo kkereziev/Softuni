@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\bin\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.deps.json
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\bin\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.runtimeconfig.json
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\bin\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.runtimeconfig.dev.json
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\bin\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.dll
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\bin\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.pdb
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\obj\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\obj\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\obj\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.AssemblyInfo.cs
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\obj\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.dll
+C:\Users\admin\source\repos\GiftboxCoverageZadacha1OtMidExam\GiftboxCoverageZadacha1OtMidExam\obj\Debug\netcoreapp2.2\GiftboxCoverageZadacha1OtMidExam.pdb
