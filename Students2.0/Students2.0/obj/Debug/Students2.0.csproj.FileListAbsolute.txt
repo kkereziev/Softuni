@@ -1,0 +1,5 @@
+c:\users\krum kereziev\documents\visual studio 2015\Projects\Students2.0\Students2.0\bin\Debug\Students2.0.exe.config
+c:\users\krum kereziev\documents\visual studio 2015\Projects\Students2.0\Students2.0\bin\Debug\Students2.0.exe
+c:\users\krum kereziev\documents\visual studio 2015\Projects\Students2.0\Students2.0\bin\Debug\Students2.0.pdb
+c:\users\krum kereziev\documents\visual studio 2015\Projects\Students2.0\Students2.0\obj\Debug\Students2.0.exe
+c:\users\krum kereziev\documents\visual studio 2015\Projects\Students2.0\Students2.0\obj\Debug\Students2.0.pdb
